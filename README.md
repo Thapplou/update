@@ -1,4 +1,4 @@
-# update
+# Update
 **Update Is a short, and easy bash script to quickly update your linux machine**
 
 ## Installation
